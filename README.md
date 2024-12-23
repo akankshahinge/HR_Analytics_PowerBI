@@ -22,6 +22,7 @@ The **HR Analytics Dashboard** is an interactive visualization built using Power
   - Attrition by gender
   - Attrition by age groups
   - Attrition by education fields
+  - Attrition by salary slab
 - **Attrition Breakdown**:
   - By job roles
   - By years at the company
@@ -41,6 +42,7 @@ The **HR Analytics Dashboard** is an interactive visualization built using Power
 - **Education**: Employees with a Life Sciences background contribute to the highest attrition percentage (38%).
 - **Gender**: Male employees have a higher attrition count (140) compared to females (79).
 - **Job Roles**: Laboratory Technicians and Sales Executives are among the job roles with the highest attrition rates.
+- **Salary Slab**: Employees having salary slab upto 5k has highest attrition rate
 
 
 
