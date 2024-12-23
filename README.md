@@ -5,6 +5,11 @@
 ## Overview
 The **HR Analytics Dashboard** is an interactive visualization built using Power BI to analyze employee attrition trends across an organization. It provides insights into key metrics, including attrition rate, employee demographics, job roles, and other critical factors that influence workforce turnover.
 
+## Data Cleaning 
+1. Removed Null values
+2. Removed duplicate values
+3. Renaming values to ensure consistency in values
+
 ## Key Features
 - **Summary Metrics**:
   - Total employees: 1470
