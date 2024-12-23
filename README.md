@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![HR Analytics Dashboard](.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard_Image.PNG)
 
 ## Overview
 The **HR Analytics Dashboard** is an interactive visualization built using Power BI to analyze employee attrition trends across an organization. It provides insights into key metrics, including attrition rate, employee demographics, job roles, and other critical factors that influence workforce turnover.
