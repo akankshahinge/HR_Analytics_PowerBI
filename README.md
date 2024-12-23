@@ -8,7 +8,7 @@ The **HR Analytics Dashboard** is an interactive visualization built using Power
 ## Data Cleaning 
 1. Removed Null values
 2. Removed duplicate values
-3. Renaming values to ensure consistency in values
+3. Renaming values to ensure consistency
 
 ## Key Features
 - **Summary Metrics**:
